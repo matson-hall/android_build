@@ -88,6 +88,7 @@ FRAMEWORKS_BASE_SUBDIRS := \
 	    sax \
 	    telephony \
 	    wifi \
+        ethernet \
 	    keystore \
 	    icu4j \
 	    voip \
